@@ -19,6 +19,8 @@ lerna-debug.log*
 .env.*
 
 # Dependency management
+!pnpm-lock.yaml
+!yarn.lock
 package-lock.json
 
 # Tests
