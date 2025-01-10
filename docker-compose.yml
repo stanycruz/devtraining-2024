@@ -1,0 +1,12 @@
+# Test e2e only
+
+services:
+  postgres:
+    image: postgres:15-alpine
+    container_name: test-db
+    restart: always
+    ports:
+      - '5433:5432'
+    environment:
+      POSTGRES_PASSWORD: 82vu7jhw
+      POSTGRES_DB: devtraining
