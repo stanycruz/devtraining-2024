@@ -1,4 +1,3 @@
-
 <h1 align="center">
   <br>
   <a href="#"><img src="https://nestjs.com/img/logo-small.svg" alt="NestJS Logo" width="100"></a>
@@ -67,10 +66,10 @@ Este projeto utiliza o [PNPM](https://pnpm.io/) como gerenciador de pacotes.
 
 ```bash
 # Clone o repositório
-$ git clone https://github.com/stanycruz/nestjs-learning-project
+$ git clone https://github.com/stanycruz/devtraining-2024
 
 # Acesse a pasta do projeto
-$ cd nestjs-learning-project
+$ cd devtraining-2024
 
 # Instale as dependências
 $ pnpm install
